@@ -10,7 +10,6 @@ I'm student at
 <div align="center">
   <br/>
 <a href="https://github.com/cJeanPablo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cjeanpablo&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjeanpablo&layout=compact&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
