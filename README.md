@@ -10,6 +10,7 @@ I'm student at
 <div align="center">
   <br/>
 <a href="https://github.com/cJeanPablo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cJeanPablo&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjeanpablo&layout=compact&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
@@ -19,7 +20,7 @@ I'm student at
   <img align="center" alt="Jean-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jean-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jean-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="Jean-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+
   </div>
   
   #### Connect with me 💻
