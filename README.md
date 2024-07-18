@@ -16,7 +16,7 @@ const anmol = {
     technologies: {
         backEnd: {
             js: [".NET"],
-        }
+        },
         devOps: ["AWS", "Docker🐳", "Kubernetes", "AKS"],
         databases: ["mongo", "redis", "sqlserver"],
         misc: ["Kafka", "GitHub Actions", "Lens", "ElasticSearch", "Grafana"]
