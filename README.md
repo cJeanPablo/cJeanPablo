@@ -71,26 +71,16 @@ Sunday                   10 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C#                       2 hrs 54 mins       ██████████████░░░░░░░░░░░   55.01 % 
-SQL                      1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
-Binary                   50 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            3 hrs 54 mins       ███████████████████░░░░░░   74.17 % 
-Ssms                     1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-starship-carrinho-api    2 hrs 17 mins       ███████████░░░░░░░░░░░░░░   43.35 % 
-Unknown Project          1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
-Starship.Carrinho        1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-cnova-comercio           23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-Comercio                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 hrs 16 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -110,7 +100,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cJeanPablo/cJeanPablo/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2024 03:10:11 UTC
+ Last Updated on 11/08/2024 03:08:51 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
