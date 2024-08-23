@@ -28,7 +28,7 @@ const cJeanPablo = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -36,7 +36,7 @@ const cJeanPablo = {
 
 > 📦 264.0 kB Used in GitHub's Storage 
  > 
-> 🏆 536 Contributions in the Year 2024
+> 🏆 538 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,16 +71,21 @@ Sunday                   10 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       52 mins             █████████████░░░░░░░░░░░░   53.10 % 
+Binary                   40 mins             ██████████░░░░░░░░░░░░░░░   41.11 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            1 hr 38 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+vv-listas-api            57 mins             ███████████████░░░░░░░░░░   58.68 % 
+Listas                   23 mins             ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
+Starship.Carrinho        11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+starship-carrinho-api    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 38 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -100,7 +105,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cJeanPablo/cJeanPablo/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2024 03:10:07 UTC
+ Last Updated on 23/08/2024 03:09:06 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
