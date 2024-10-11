@@ -36,7 +36,7 @@ const cJeanPablo = {
 
 > 📦 264.0 kB Used in GitHub's Storage 
  > 
-> 🏆 616 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,18 +71,16 @@ Sunday                   10 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C#                       10 mins             ██████████████████████░░░   89.76 % 
-JSON                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-starship-carrinho-api    8 mins              ██████████████████░░░░░░░   71.86 % 
-Starship.Carrinho        3 mins              ███████░░░░░░░░░░░░░░░░░░   28.14 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -102,7 +100,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cJeanPablo/cJeanPablo/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2024 03:15:02 UTC
+ Last Updated on 11/10/2024 03:14:10 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
