@@ -36,7 +36,7 @@ const cJeanPablo = {
 
 > 📦 264.0 kB Used in GitHub's Storage 
  > 
-> 🏆 616 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,7 +100,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cJeanPablo/cJeanPablo/main/assets/bar_graph.png)
 
 
- Last Updated on 07/11/2024 03:15:58 UTC
+ Last Updated on 08/11/2024 03:13:12 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
