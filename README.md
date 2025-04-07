@@ -36,8 +36,6 @@ const cJeanPablo = {
 
 > 📦 264.1 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -100,7 +98,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cJeanPablo/cJeanPablo/main/assets/bar_graph.png)
 
 
- Last Updated on 06/04/2025 03:28:07 UTC
+ Last Updated on 07/04/2025 03:29:29 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
