@@ -28,8 +28,6 @@ const cJeanPablo = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%202%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -44,45 +42,6 @@ const cJeanPablo = {
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                26 commits          ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
-🌆 Daytime                43 commits          ██████████░░░░░░░░░░░░░░░   38.39 % 
-🌃 Evening                38 commits          ████████░░░░░░░░░░░░░░░░░   33.93 % 
-🌙 Night                  5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   25 commits          ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-Tuesday                  32 commits          ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Wednesday                15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Thursday                 8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Friday                   13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Saturday                 9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-Sunday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C#** 
 
 ```text
@@ -100,7 +59,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cJeanPablo/cJeanPablo/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2025 03:49:34 UTC
+ Last Updated on 01/07/2025 03:55:24 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
