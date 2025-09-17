@@ -28,15 +28,11 @@ const cJeanPablo = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%202%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 264.1 kB Used in GitHub's Storage 
- > 
-> 🏆 1 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,45 +40,6 @@ const cJeanPablo = {
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                10 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-🌆 Daytime                21 commits          █████████░░░░░░░░░░░░░░░░   35.59 % 
-🌃 Evening                27 commits          ███████████░░░░░░░░░░░░░░   45.76 % 
-🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   19 commits          ████████░░░░░░░░░░░░░░░░░   32.20 % 
-Tuesday                  14 commits          ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-Wednesday                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Thursday                 6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Friday                   7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Saturday                 2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Sunday                   7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C#** 
 
 ```text
@@ -100,7 +57,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cJeanPablo/cJeanPablo/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2025 03:22:08 UTC
+ Last Updated on 17/09/2025 03:20:59 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
