@@ -36,7 +36,7 @@ const cJeanPablo = {
 
 > 📦 264.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,7 +100,7 @@ Smalltalk                1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cJeanPablo/cJeanPablo/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2025 03:55:39 UTC
+ Last Updated on 01/01/2026 04:05:21 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
