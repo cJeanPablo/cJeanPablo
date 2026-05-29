@@ -28,8 +28,6 @@ const cJeanPablo = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2019%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -44,45 +42,6 @@ const cJeanPablo = {
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                26 commits          ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-🌆 Daytime                42 commits          █████████░░░░░░░░░░░░░░░░   36.21 % 
-🌃 Evening                38 commits          ████████░░░░░░░░░░░░░░░░░   32.76 % 
-🌙 Night                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   28 commits          ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
-Tuesday                  32 commits          ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-Wednesday                15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Thursday                 8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Friday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Saturday                 9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-Sunday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C#** 
 
 ```text
@@ -100,7 +59,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cJeanPablo/cJeanPablo/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 06:41:35 UTC
+ Last Updated on 29/05/2026 06:43:50 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
