@@ -42,45 +42,6 @@ const cJeanPablo = {
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                26 commits          █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-🌆 Daytime                42 commits          █████████░░░░░░░░░░░░░░░░   34.43 % 
-🌃 Evening                38 commits          ████████░░░░░░░░░░░░░░░░░   31.15 % 
-🌙 Night                  16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   34 commits          ███████░░░░░░░░░░░░░░░░░░   27.87 % 
-Tuesday                  32 commits          ███████░░░░░░░░░░░░░░░░░░   26.23 % 
-Wednesday                15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Thursday                 8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Friday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Saturday                 9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-Sunday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C#** 
 
 ```text
@@ -98,7 +59,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cJeanPablo/cJeanPablo/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 05:39:19 UTC
+ Last Updated on 25/07/2026 05:33:22 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
